@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1673731638 source:c:\users\carlos eduardo\desktop\tr1\tr1_1\simulador.cpp
+
+1675664078 source:c:\users\carlos eduardo\desktop\tr1\tr1_1\camadaaplicacao.cpp
+	<string>
+	<sstream>
+	<iostream>
+	<bitset>
+	<vector>
+	"CamadaAplicacao.hpp"
+
+1673816922 c:\users\carlos eduardo\desktop\tr1\tr1_1\camadaaplicacao.hpp
+	"CamadaFisica.hpp"
+	<vector>
+	<string>
+
+1675721267 c:\users\carlos eduardo\desktop\tr1\tr1_1\camadafisica.hpp
+	<cmath>
+	<iostream>
+	<vector>
+	<stdlib.h>
+	"CamadaEnlace.hpp"
+
+1673812564 source:c:\users\carlos eduardo\desktop\tr1\tr1_1\main.cpp
+	"CamadaAplicacao.hpp"
+
+1675722088 source:c:\users\carlos eduardo\desktop\tr1\tr1_1\camadafisica.cpp
+	"CamadaFisica.hpp"
+
+1675659424 c:\users\carlos eduardo\desktop\tr1\tr1_1\camadaenlace.hpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<vector>
+
+1675729801 source:c:\users\carlos eduardo\desktop\tr1\tr1_1\camadaenlace.cpp
+	<string>
+	<stdlib.h>
+	<vector>
+	<cstdlib>
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<algorithm>
+	<bitset>
+	"CamadaEnlace.hpp"
+	"CamadaFisica.hpp"
+
